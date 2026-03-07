@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Bhavy Jain
 
-<!--
-**BhavyJ1010/BhavyJ1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Communication Engineering student at **NIT Delhi**.
 
-Here are some ideas to get you started:
+Currently exploring:
+- Machine Learning fundamentals
+- Data analysis and visualization
+- Hardware-integrated systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**Cloudburst Prediction System (Smart India Hackathon)**  
+Hardware-integrated prototype using environmental sensor data to analyze cloudburst prediction.
+
+**Roommate Matcher (Python, Streamlit)**  
+Web application that matches roommates based on lifestyle preferences using a scoring system.
+
+## Currently Learning
+- Python for data analysis
+- Machine learning workflows
+- Data structures and algorithms
+
+## Links
+
+GitHub: https://github.com/BhavyJ1010  
+LinkedIn: https://linkedin.com/in/bhavyjain
