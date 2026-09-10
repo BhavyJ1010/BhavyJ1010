@@ -1,26 +1,26 @@
 # Hi, I'm Bhavy Jain
 
-Electronics and Communication Engineering student at **NIT Delhi**.
+B.Tech student in Electronics and Communication Engineering at **NIT Delhi**, with a **Minor in AI/ML**.
 
-Currently exploring:
-- Machine Learning fundamentals
-- Data analysis and visualization
-- Hardware-integrated systems
+I'm interested in exploring technology across **software, AI/ML, electronics, and hardware-integrated systems**. Currently building projects and strengthening my technical foundations.
 
 ## Projects
 
-**Cloudburst Prediction System (Smart India Hackathon)**  
-Hardware-integrated prototype using environmental sensor data to analyze cloudburst prediction.
+**Drift-Sense — Semiconductor Vision System**  
+Computer-vision prototype for recovering navigation errors during semiconductor wafer inspection.
 
-**Roommate Matcher (Python, Streamlit)**  
-Web application that matches roommates based on lifestyle preferences using a scoring system.
+**Smart India Hackathon 2025 — Cloudburst Prediction System**  
+Hardware-integrated system using environmental sensor data and machine learning for cloudburst prediction.
+
+**ScriptForge — Personalized Handwriting Generation**  
+A project for acquiring, modeling, and reproducing a user's handwriting; currently focused on digital writer acquisition after initially developing a paper-based OpenCV pipeline.
 
 ## Currently Learning
-- Python for data analysis
-- Machine learning workflows
-- Data structures and algorithms
+
+- Data Structures and Algorithms
+- Machine Learning
+- Python
 
 ## Links
 
-GitHub: https://github.com/BhavyJ1010  
-LinkedIn: https://linkedin.com/in/bhavyjain
+[GitHub](https://github.com/BhavyJ1010) · [LinkedIn](https://linkedin.com/in/bhavyjain)
